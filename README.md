@@ -58,9 +58,10 @@ Once you are on the Remix website, follow these steps:
 4.  **Deploy the Contract**: Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. Enter the initial supply in the deployment input box. Click on the "Deploy" button.
 5.  **Interact with the Contract**: After deployment, we can interact with the contract using the provided functions that are mint, burnToken, transferToken.
 
-
-
+## Authors
+Metacrafter UDAY CHOPRA ---->
+[UDAY CHOPRA](https://www.linkedin.com/in/uday-chopra-86701b2b0/)
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License.
